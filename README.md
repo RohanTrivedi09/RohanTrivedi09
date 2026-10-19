@@ -1,22 +1,27 @@
-<h1 align="center">Rohan Trivedi</h1>
-<p align="center"><b>AI Security · Adversarial ML · LLM &amp; RAG Security</b></p>
-<p align="center">I break machine-learning systems to understand them, then make them harder to break.</p>
-
 <p align="center">
-  <a href="https://linkedin.com/in/rohanr-trivedi"><img src="https://img.shields.io/badge/LinkedIn-rohanr--trivedi-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:rohanr.trivedi@gmail.com"><img src="https://img.shields.io/badge/Email-rohanr.trivedi%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Open%20to-Jan%202027%20internships-16a34a?style=flat" alt="Open to internships">
+  <img src="assets/header.svg" width="100%" alt="Rohan Trivedi. Generative AI and cybersecurity: Generative AI and RAG systems, LLM and RAG security, adversarial machine learning, AI for cyber defense, offensive security and OSINT.">
 </p>
 
----
+<p align="center">
+  <a href="https://linkedin.com/in/rohanr-trivedi"><img src="https://img.shields.io/badge/LinkedIn-rohanr--trivedi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:rohanr.trivedi@gmail.com"><img src="https://img.shields.io/badge/Email-rohanr.trivedi%40gmail.com-0d1530?style=flat-square&logo=gmail&logoColor=22d3ee" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Open%20to-Jan%202027%20internships-16a34a?style=flat-square" alt="Open to January 2027 internships">
+</p>
 
 ### About
-- 🎓 B.Tech CSE (AI & ML), Adani University, class of 2027
-- 🛡️ Execution Head, **Cybersphere Club**: co-teach a hands-on security course (OSINT, recon, exploitation) to 75+ students
-- 🏛️ AI/ML Intern, **State Crime Records Bureau, Gujarat**: built a RAG-based LLM copilot for multi-portal integration
-- 🔭 Research interests: adversarial robustness, LLM security, the theory behind why models fail
 
-### 🔬 Featured research
+I build generative AI systems and study how they break: how LLM and RAG pipelines can be manipulated, how ML models can be evaded, and how to measure defenses properly.
+
+- B.Tech CSE (AI & ML), Adani University, class of 2027
+- AI/ML Intern, **State Crime Records Bureau, Gujarat**: built a RAG-based LLM copilot for multi-portal integration
+- Execution Head, **Cybersphere Club**: co-teach a hands-on security course (OSINT, recon, exploitation) to 75+ students
+- Interests: LLM and RAG security, adversarial robustness, AI for cyber defense
+
+<p align="center">
+  <img src="assets/terminal.svg" width="760" alt="Terminal: whoami, focus areas, and adversarial-nids-evasion results (undefended NIDS 1.0% detection, PGD adversarial training 51.2% detection at eps 0.3)">
+</p>
+
+### Featured research
 
 **[Adversarial Evasion Attacks on ML Intrusion Detection](https://github.com/RohanTrivedi09/adversarial-nids-evasion)**
 White-box FGSM and PGD evasion attacks on a neural NIDS (NSL-KDD); everything implemented from scratch in NumPy and gradient-checked.
@@ -31,7 +36,7 @@ White-box FGSM and PGD evasion attacks on a neural NIDS (NSL-KDD); everything im
 
 <img src="https://raw.githubusercontent.com/RohanTrivedi09/adversarial-nids-evasion/main/figures/dr_vs_eps_pgd.png" width="520" alt="Detection rate vs attack budget">
 
-### 🧪 Projects
+### Projects
 
 | Project | Area | What it shows |
 |---|---|---|
@@ -39,34 +44,41 @@ White-box FGSM and PGD evasion attacks on a neural NIDS (NSL-KDD); everything im
 | [deepfakecomputervision](https://github.com/RohanTrivedi09/deepfakecomputervision) | Media forensics | ResNet18 deepfake detector with Grad-CAM explanations and a Streamlit demo |
 | [Airline-Operations-Intelligence](https://github.com/RohanTrivedi09/Airline-Operations-Intelligence) | Big data / ML | 5.8M-row PySpark + MLlib pipeline with a [live dashboard](https://airline-operations-intelligence-s7eaprmlhn8atz59qjy3nj.streamlit.app) |
 
-### 🧰 Toolbox
+### Toolbox
 
-**ML / AI**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![RAG and LLMs](https://img.shields.io/badge/RAG%20%2F%20LLMs-111827?style=flat)
+**Generative AI**
+![RAG](https://img.shields.io/badge/RAG-0d1530?style=flat-square)
+![LLM integration](https://img.shields.io/badge/LLM%20integration-0d1530?style=flat-square)
+![Prompt engineering](https://img.shields.io/badge/Prompt%20engineering-0d1530?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-0d1530?style=flat-square&logo=n8n&logoColor=EA4B71)
+
+**Machine learning**
+![Python](https://img.shields.io/badge/Python-0d1530?style=flat-square&logo=python&logoColor=3776AB)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1530?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1530?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![NumPy](https://img.shields.io/badge/NumPy-0d1530?style=flat-square&logo=numpy&logoColor=4DABCF)
+![PySpark](https://img.shields.io/badge/PySpark-0d1530?style=flat-square&logo=apachespark&logoColor=E25A1C)
 
 **Security**
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-0d1530?style=flat-square&logo=kalilinux&logoColor=557C94)
+![Metasploit](https://img.shields.io/badge/Metasploit-0d1530?style=flat-square&logo=metasploit&logoColor=2596CD)
+![Nmap](https://img.shields.io/badge/Nmap-0d1530?style=flat-square)
+![Maltego](https://img.shields.io/badge/Maltego-0d1530?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1530?style=flat-square&logo=wireshark&logoColor=1679A7)
+![Kibana](https://img.shields.io/badge/Kibana%20%2F%20SIEM-0d1530?style=flat-square&logo=kibana&logoColor=E8478B)
 
 **Engineering**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1530?style=flat-square&logo=fastapi&logoColor=009688)
+![React](https://img.shields.io/badge/React-0d1530?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-0d1530?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Docker](https://img.shields.io/badge/Docker-0d1530?style=flat-square&logo=docker&logoColor=2496ED)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1530?style=flat-square&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1530?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Kafka](https://img.shields.io/badge/Kafka-0d1530?style=flat-square&logo=apachekafka&logoColor=white)
 
-### 📍 Now
-- Extending my adversarial-robustness work from tabular NIDS models to deep vision models (deepfake detectors)
-- Looking for a **3–6 month AI security / ML security internship from January 2027** (remote, India, or abroad)
+### Now
 
-<sub>Certifications: IBM Cybersecurity with Generative AI · AWS ML Foundations · Anthropic Claude Code 101 · Forage cyber simulations (PwC, Deloitte, Mastercard, Tata, Datacom)</sub>
+- Exploring LLM and RAG security: prompt injection, retrieval poisoning and data leakage in retrieval pipelines
+- Looking for a **3-6 month Generative AI or AI security internship from January 2027** (remote, India, or abroad)
+
+<sub>Certifications: IBM SkillsBuild Level Up Cybersecurity with Generative AI · AWS ML Foundations · Anthropic Claude Code 101 · Forage cybersecurity job simulations (PwC, Deloitte, Mastercard, Tata, Datacom)</sub>
